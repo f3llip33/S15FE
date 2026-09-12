@@ -1,0 +1,6 @@
+A Importância do CSS Grid.
+
+    O Css Grid é importante porque ele facilita a criação e organização de layouts de páginas
+    permitindo você distribuir os elementos em linhas e colunas de um jeito prático.
+
+    Basicamente ele deixa a construção da interface mais simples, organizada e responsiva.
